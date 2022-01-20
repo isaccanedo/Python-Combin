@@ -7,7 +7,6 @@ APOSTAS = []
 ''' Recebe 15 valores informados manualmente, salvando-os como uma aposta.              '''
 '''¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨'''
 
-
 def informar_valores_manualmente():
     
     manual = []
